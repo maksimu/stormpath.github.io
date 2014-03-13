@@ -37,6 +37,7 @@ content_top: [docs_top.html]
             <ul class="menu"><li class="first leaf"><a href="/python/quickstart" title="">Python Quickstart Guide</a></li>
               <li class="leaf"><a href="/python/product-guide" title="">Python Product Guide</a></li>
               <li class="leaf"><a href="https://github.com/stormpath/stormpath-sdk-python" title="">Python SDK on GitHub</a></li>
+              <li class="leaf"><a href="/python/apidocs/" title="Python SDK API (Sphinx)">Python SDK API (Sphinx)</a></li>
               <li class="leaf"><a href="/sample-apps/#sample-apps-python-container-jump" title="">Python Samples</a></li>
               <li class="last leaf"><a href="/integrations/#sample-apps-python-container-jump" title="">Python Integrations</a></li>
               <li class="leaf download-sdk"><a href="https://github.com/stormpath/stormpath-sdk-python/archive/master.zip">Download SDK</a></li>
